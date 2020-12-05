@@ -2,9 +2,9 @@
  
  ## RFID / NFC
 
-* Khái niệm RFID:
-** Link tham khảo (Tiếng Việt): https://tintuc.viettelstore.vn/cong-nghe-rfid-la-gi-nguyen-ly-hoat-dong-va-ung-dung-cua-rfid.html
-** Link tham khảo (Tiếng Anh): https://www.atlasrfidstore.com/rfid-beginners-guide/
+- Khái niệm RFID:
+ - Link tham khảo (Tiếng Việt): https://tintuc.viettelstore.vn/cong-nghe-rfid-la-gi-nguyen-ly-hoat-dong-va-ung-dung-cua-rfid.html
+ - Link tham khảo (Tiếng Anh): https://www.atlasrfidstore.com/rfid-beginners-guide/
     
 * Tài liệu RFID (English): https://rfid.atlasrfidstore.com/hs-fs/hub/300870/file-252314647.pdf
 
