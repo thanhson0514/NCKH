@@ -1,6 +1,6 @@
  # Tài liệu tham khảo
  
- ![NCKH](https://img.shields.io/badge/-NCKH-brightgreen) ![reference](https://img.shields.io/badge/-reference-gray)
+ ![NCKH](https://img.shields.io/badge/-NCKH-brightgreen) ![reference](https://img.shields.io/badge/-Reference-gray)
  
  ## Danh Mục
  
