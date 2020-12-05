@@ -24,9 +24,9 @@
 
 ## Lập trình Arduino
 
-* Trang chủ: http://arduino.cc/
+* Trang chủ (English): http://arduino.cc/
 * Cơ bản Arduino Uno R3: https://mlab.vn/index.php?_route_=10609-hoc-arduino-bai-2-nhung-dieu-co-ban-ve-arduino.html
-* Các loại Arduino: https://www.arduino.cc/en/main/boards
+* Các loại Arduino (English): https://www.arduino.cc/en/main/boards
 * Mô phỏng Arduino trên Proteus: https://pholinhkien.com/baiviet-huong-dan-mo-phong-arduino-tren-proteus.html
 
 ## Server
@@ -37,6 +37,6 @@
 
 * Public Key và Private Key: https://vietnambiz.vn/ma-hoa-khoa-cong-cong-public-key-la-gi-thuan-loi-va-kho-khan-20191008164027334.htm
 
-* So sánh Public key và Private key: https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/
+* So sánh Public key và Private key (English): https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/
 
 * Database: https://hostingviet.vn/co-so-du-lieu-database-la-gi
