@@ -2,7 +2,11 @@
  
  ## RFID / NFC
 
-* Khái niệm RFID: https://tintuc.viettelstore.vn/cong-nghe-rfid-la-gi-nguyen-ly-hoat-dong-va-ung-dung-cua-rfid.html
+* Khái niệm RFID: 
+    ** Link tham khảo (Tiếng Việt): https://tintuc.viettelstore.vn/cong-nghe-rfid-la-gi-nguyen-ly-hoat-dong-va-ung-dung-cua-rfid.html
+    ** Link tham khảo (Tiếng Anh): https://www.atlasrfidstore.com/rfid-beginners-guide/
+    
+* Tài liệu RFID (English): https://rfid.atlasrfidstore.com/hs-fs/hub/300870/file-252314647.pdf
 
 * Các chuẩn của RFID: https://www.semiconvn.com/home/hoc-thiet-ke-vi-mach/bai-hc-vi-mch/9912--cac-loi-tieu-chun-rfid-la-gi.html
 
@@ -13,6 +17,8 @@
 ## Lập trình Arduino
 
 * Trang chủ: http://arduino.cc/
+* Cơ bản Arduino Uno R3: https://mlab.vn/index.php?_route_=10609-hoc-arduino-bai-2-nhung-dieu-co-ban-ve-arduino.html
+* Các loại Arduino: https://www.arduino.cc/en/main/boards
 * Mô phỏng Arduino trên Proteus: https://pholinhkien.com/baiviet-huong-dan-mo-phong-arduino-tren-proteus.html
 
 ## Server
@@ -21,4 +27,8 @@
 
 * Token: https://timo.vn/tai-khoan-thanh-toan/token-la-gi-uu-nhuoc-diem-khi-su-dung-token/
 
+* Public Key và Private Key: https://vietnambiz.vn/ma-hoa-khoa-cong-cong-public-key-la-gi-thuan-loi-va-kho-khan-20191008164027334.htm
+
 * So sánh Public key và Private key: https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/
+
+* Database: https://hostingviet.vn/co-so-du-lieu-database-la-gi
