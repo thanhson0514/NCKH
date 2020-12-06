@@ -6,7 +6,7 @@
  
  * [RFID / NFC](#RIFD-NFC)
  * [Lập trình Arduino](#Lập-trình-Arduino)
- * {Raspberry Pi](#Raspberry-Pi)
+ * [Raspberry Pi](#Raspberry-Pi)
  * [Server](#Server)
  
  ## RFID / NFC
