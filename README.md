@@ -29,6 +29,10 @@
 * Các loại Arduino (English): https://www.arduino.cc/en/main/boards
 * Mô phỏng Arduino trên Proteus: https://pholinhkien.com/baiviet-huong-dan-mo-phong-arduino-tren-proteus.html
 
+## Raspberry Pi
+
+* Xây dựng Server cá nhân Raspberry Pi (English): https://www.freecodecamp.org/news/build-a-personal-dev-server-on-a-5-dollar-raspberry-pi/
+
 ## Server
 
 * Khái niệm server: https://www.viettelidc.com.vn/tin-tuc/server-la-gi-may-chu-la-gi-nhung-dieu-can-biet-ve-server
