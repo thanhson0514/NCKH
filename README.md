@@ -2,7 +2,11 @@
  
  ![NCKH](https://img.shields.io/badge/-NCKH-brightgreen) ![reference](https://img.shields.io/badge/-Reference-gray)
  
- ## Danh Mục
+ ## Danh mục (chính)
+ 
+ * [Arduino](https://github.com/thanhson0514/NCKH/tree/main/arduino)
+ 
+ ## Các đề tài chung liên quan đến NCKH
  
  * [RFID / NFC](#RIFD-NFC)
  * [Lập trình Arduino](#Lập-trình-Arduino)
