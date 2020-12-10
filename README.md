@@ -5,6 +5,7 @@
  ## Danh mục (chính)
  
  * [Arduino](https://github.com/thanhson0514/NCKH/tree/main/arduino)
+ * [Raspberry Pi](https://github.com/thanhson0514/NCKH/tree/main/Raspberry%20Pi)
  
  ## Các đề tài chung liên quan đến NCKH
  
