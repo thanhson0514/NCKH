@@ -5,6 +5,7 @@
  ## Danh mục (chính)
  
  * [Arduino](https://github.com/thanhson0514/NCKH/tree/main/arduino)
+ * [Raspberry Pi](https://github.com/thanhson0514/NCKH/tree/main/Raspberry%20Pi)
  
  ## Các đề tài chung liên quan đến NCKH
  
@@ -35,7 +36,7 @@
 * Mô phỏng Arduino trên Proteus: https://pholinhkien.com/baiviet-huong-dan-mo-phong-arduino-tren-proteus.html
 
 ## Raspberry Pi
-
+* Lý thuyết về Raspberry Pi: https://quantrimang.com/raspberry-pi-la-gi-va-duoc-su-dung-nhu-the-nao-145399
 * Xây dựng Server cá nhân Raspberry Pi (English): https://www.freecodecamp.org/news/build-a-personal-dev-server-on-a-5-dollar-raspberry-pi/
 
 ## Server
