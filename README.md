@@ -7,6 +7,7 @@
  * [Arduino](https://github.com/thanhson0514/NCKH/tree/main/arduino)
  * [Raspberry Pi](https://github.com/thanhson0514/NCKH/tree/main/Raspberry%20Pi)
  * [So sánh Raspberry vs Arduino](https://github.com/thanhson0514/NCKH/tree/main/Arduino%20%26%20Raspberry%20Pi)
+ * [Kết nối Raspberry Pi với Arduino](https://github.com/thanhson0514/NCKH/tree/main/Arduino%20%26%20Raspberry%20Pi)
  
  ## Các đề tài chung liên quan đến NCKH
  
