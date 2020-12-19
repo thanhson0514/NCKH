@@ -1,4 +1,7 @@
- # Tài liệu tham khảo
+﻿ # Tài liệu tham khảo
+
+# Member
+* Nguyen Hai Nam
  
  ![NCKH](https://img.shields.io/badge/-NCKH-brightgreen) ![reference](https://img.shields.io/badge/-Reference-gray)
  
