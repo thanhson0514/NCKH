@@ -2,6 +2,7 @@
 
 # Member
 * Nguyen Hai Nam
+* Lam Thi Kieu
 * Nguyen Dac Manh
 
  ![NCKH](https://img.shields.io/badge/-NCKH-brightgreen) ![reference](https://img.shields.io/badge/-Reference-gray)
