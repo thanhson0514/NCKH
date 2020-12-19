@@ -1,6 +1,7 @@
 ﻿ # Tài liệu tham khảo
 
-# Member
+# Members
+* Le Thanh Son
 * Nguyen Hai Nam
 * Lam Thi Kieu
 * Nguyen Dac Manh
